@@ -71,3 +71,6 @@ Look tat this example:
 calculation_time_seconds is higher than 1s
 
 Your goal is to **reduce the response time** of the backend endpoint that calculates PI.
+
+## Take notes for what and why you did.
+## We will discuss it later.

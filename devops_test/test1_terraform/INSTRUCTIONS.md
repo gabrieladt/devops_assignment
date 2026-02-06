@@ -44,5 +44,5 @@ You can assume Terraform is already installed.
 
 After applying, you should see the generated files under the corresponding environment folders (`QA/`, `STG/`, `PRD/`).
 
-## Take notes for what  and why you did, 
-We will discuss it later.
+## Take notes for what and why you did.
+## We will discuss it later.
