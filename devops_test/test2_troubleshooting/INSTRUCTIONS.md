@@ -8,7 +8,7 @@ When the backend is working as expected, an HTTP GET request to the root endpoin
 
 ```json
 {
-  "calculation_time_seconds": 0.07102404200009005,
+  "calculation_time_seconds": 2.07102404200009005,
   "message": "Welcome to Yape",
   "pi": 3.1415916535897743
 }
