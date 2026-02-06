@@ -28,7 +28,7 @@ def root():
 
     response = make_response(
         jsonify(
-            message="Welcome to Clawdbot",
+            message="Welcome to the backend service",
             pi=pi_value,
             calculation_time_seconds=duration,
         )
