@@ -6,8 +6,6 @@ This assignment is composed of three independent tests. You do not need to solve
 > There is no single "correct" solution in any of the tests. We are interested in your thought process, the trade-offs you consider, and how you communicate them.
 > **There is no mandatory test, if you did not manage to do it, NO WORRIES.**
 
-**There is no single "correct" solution in any of the tests. We are interested in your thought process, the trade-offs you consider, and how you communicate them.**
-
 ## Test 1 – Terraform
 
 - Work with infrastructure-as-code using Terraform.
